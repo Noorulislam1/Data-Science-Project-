@@ -1,0 +1,6 @@
+.DS_Store
+tmp/
+outputs/cleaned_ev_charging_data.csv
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
